@@ -1,4 +1,3 @@
-# Credit-Card-Fraud-Detection
 # Credit Card Fraud Detection (Kredi Kartı Dolandırıcılığı Tespiti)
 
 ## Proje Hakkında
@@ -41,7 +40,7 @@ Bu proje, bankaların ve finansal kuruluşların gerçek zamanlı olarak şüphe
 
 ## Kaggle Notebook Linki
 
-[Kaggle Notebook'um](https://www.kaggle.com/kenanacrr/credit-card-fraud-detection)
+[Kaggle Notebook'um](https://www.kaggle.com/code/kenanaar/machine-learning-bootcamp-project/edit)
 
 ---
 
